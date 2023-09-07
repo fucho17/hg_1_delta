@@ -1,1 +1,9 @@
-# hg_1_delta
+⚡REPO - DELTA
+
+🧍‍♂️integrantes:
+
+Bravo,
+Charlie,
+Delta,
+Echo,
+Echo-1
